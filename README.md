@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Resumen Profesional
 
-Soy un entusiasta de la programación y estudiante de Ingeniería en Computación con experiencia en soporte técnico nivel 2 y soluciones de software en el área de facturación electrónica y sistemas POS. Tengo habilidades en Java, Visual Basic, HTML, CSS y SQL, y estoy en proceso de aprender Python, JavaScript y C++. Busco una oportunidad para desarrollarme como programador y aplicar mis habilidades técnicas en proyectos desafiantes.
+Soy un entusiasta de la programación y estudiante de Ingeniería en Computación. Tengo habilidades en Java, Visual Basic, HTML, CSS y SQL, y estoy en proceso de aprender Python, JavaScript y C++. Busco una oportunidad para desarrollarme como programador y aplicar mis habilidades técnicas en proyectos desafiantes.
 
 ## 📍 Ubicación
 
