@@ -1,5 +1,3 @@
-# profile
-
 # Hola, soy Facundo Sander! 👋
 
 ## 👨‍💻 Resumen Profesional
