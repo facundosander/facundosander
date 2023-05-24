@@ -6,7 +6,7 @@ Soy un entusiasta de la programación y estudiante de Ingeniería en Computació
 
 ## 📍 Ubicación
 
-Paysandú 1306, Montevideo, Uruguay
+Montevideo, Uruguay
 
 ## 📫 Cómo contactarme
 
