@@ -1,27 +1,23 @@
-# Hola, soy Facundo Sander! 👋
+Hi, I'm Facundo Sander! 👋
 
-## 👨‍💻 Resumen Profesional
+👨‍💻 Professional Overview
 
-Soy un entusiasta de la programación y estudiante de Ingeniería en Computación. Tengo habilidades en Java, Visual Basic, HTML, CSS y SQL, y estoy en proceso de aprender Python, JavaScript y C++. Busco una oportunidad para desarrollarme como programador y aplicar mis habilidades técnicas en proyectos desafiantes.
+As an ambitious software engineering student and a passionate programming enthusiast, I have a diverse range of technical skills. Currently working in the IT market as an Operational Technician, I have hands-on experience in various programming languages such as Java, Visual Basic, HTML, CSS, SQL, Python, JavaScript, Pascal and a practical understanding of FastApi and Dockerfile. My professional role enhances my ability to apply technical proficiency to challenging projects, as I continue to hone my knowledge and expertise in PHP, React, Angular, and Node.js.
 
-## 📍 Ubicación
-
+📍 Location
 Montevideo, Uruguay
 
-## 📫 Cómo contactarme
+📫 How to Reach Me
+Phone: +598 92 283 077
+Email: facuzx2010@gmail.com
 
-- Teléfono: +598 92 283 077
-- Email: facuzx2010@gmail.com
+💼 Professional Networks
+LinkedIn
+GitHub
 
-## 💼 Redes Profesionales
-
-- [LinkedIn](https://www.linkedin.com/in/facundo-sander-1a6248126/)
-- [GitHub](https://github.com/facundosander)
-
-## 🚀 Habilidades 
-
-- 💻 Java, Visual Basic
-- 🌐 HTML, CSS
-- 📊 SQL
-- 🐍 Aprendiendo: Python, JavaScript, C++
-
+🚀 Skills
+💻 Java, Visual Basic, Python, JavaScript, Pascal
+🌐 HTML, CSS
+📊 SQL
+🐳 FastApi, Dockerfile
+🐍 Currently learning: PHP, React, Angular, Node.js
