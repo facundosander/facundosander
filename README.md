@@ -10,7 +10,7 @@ Operational Support Technician with a rich background in backend development and
 
 🛠 Technical Skills
 
-Languages: Python, C, C#, C++, Java, SQL, HTML, CSS, JavaScript
+Languages: Python, C, C#, C++, Java, SQL, HTML, CSS, JavaScript, .NET
 
 Databases: SQL, MySQL, PostgreSQL
 
